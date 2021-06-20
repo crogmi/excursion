@@ -1,0 +1,60 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+h2 {
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: normal;
+    display: block;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+    font-weight: normal;
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    color: gray;
+    font-size: 16px;
+    text-align: right;
+    font-weight: normal;
+}
+
+#img-camping {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#img-iphone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
